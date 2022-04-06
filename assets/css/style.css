@@ -1,0 +1,79 @@
+body {
+    background-color: #ffffff; 
+}
+
+h1, 
+h2 {
+    color: #313740;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #000000;
+    font-family: 'Archivo', sans-serif;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgb(171, 143, 128);
+    color: white;
+    text-decoration: none;
+    border: none;
+    font-family: 'Archivo', sans-serif;
+}
+
+.btn:focus, .btn:active, .btn:visited, .btn:hover {
+    outline: none !important;
+    box-shadow: none !important;
+    border: none;
+    background-color: rgb(171, 143, 128);
+}
+
+.btn {
+    background-color: rgb(171, 143, 128);
+    color: white; 
+    border: none;
+
+}
+
+.btn-info {
+    background-color: rgb(171, 143, 128);
+    color: white;
+    border: none;
+
+}
+
+.ms-1 {
+    margin-left: 20em;
+  }
+  
+
+#finalScore {
+    font-family: 'Nanum Gothic', sans-serif;;
+    font-weight: bold;
+}
+
+span {
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #4D5159;
+}
+
+#viewHighScore {
+    font-family: 'Archivo', sans-serif;
+    font-weight: bold;
+}
