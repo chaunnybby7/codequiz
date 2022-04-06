@@ -5,7 +5,7 @@ I built a timed coding quiz with multiple-choice questions. This app will run in
 ## Acceptance Criteria
 
 GIVEN I am taking a code quiz
-<em>WHEN I click the start button</em>
+HEN I click the start button
 __THEN a timer starts and I am presented with a question__
 WHEN I answer a question
 __THEN I am presented with another question__
@@ -27,10 +27,10 @@ SO THAT I can gauge my progress compared to my peers
 
 ## What you will find on my website:
 
-**Step 1**: Click on <Start Quiz>
-    - Timer is on the top right of the landing page
-    - The countdown timer total time is 180 seconds with 12 questions
-    - The <View High Scores> link is on the top left of the landing page, it will redirect user to view all the high scores. 
+__Step 1__: Click on <Start Quiz>
+- [x] Timer is on the top right of the landing page
+- [x] The countdown timer total time is 180 seconds with 12 questions
+- [x] The <View High Scores> link is on the top left of the landing page, it will redirect user to view all the high scores.  :tada:
 
 **Step** 2: Multiple Choice Questions quiz 
     - If the user answered the question wrong, 10 seconds will be penalized
@@ -43,7 +43,7 @@ SO THAT I can gauge my progress compared to my peers
     - Sringify array in order to store in local
     - Create a show current highscores function
     - Check if there is any in local storage
-    - FOR loop created to iterate the stored high scores and <append()> method for each round of new high score.  
+    - <for> loop created to iterate the stored high scores and <append()> method for each round of new high score.  
 
 **Step 5**: User can click "Reset High Scores" to clear the saved scores and click on <em>"Go Back"</em> to start quiz again. 
 
