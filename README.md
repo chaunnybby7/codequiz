@@ -5,16 +5,16 @@ I built a timed coding quiz with multiple-choice questions. This app will run in
 ## Acceptance Criteria
 
 GIVEN I am taking a code quiz
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
+<em>WHEN I click the start button</em>
+__THEN a timer starts and I am presented with a question__
 WHEN I answer a question
-THEN I am presented with another question
+__THEN I am presented with another question__
 WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
+__THEN time is subtracted from the clock__
 WHEN all questions are answered or the timer reaches 0
-THEN the game is over
+__THEN the game is over__
 WHEN the game is over
-THEN I can save my initials and my score
+__THEN I can save my initials and my score__
 
 
 ## User Story
@@ -27,25 +27,25 @@ SO THAT I can gauge my progress compared to my peers
 
 ## What you will find on my website:
 
-Step 1: Click on <Start Quiz>
+**Step 1**: Click on <Start Quiz>
     - Timer is on the top right of the landing page
     - The countdown timer total time is 180 seconds with 12 questions
     - The <View High Scores> link is on the top left of the landing page, it will redirect user to view all the high scores. 
 
-Step 2: Multiple Choice Questions quiz 
+**Step** 2: Multiple Choice Questions quiz 
     - If the user answered the question wrong, 10 seconds will be penalized
     - If the user answered the question correctly, the score will be incremented by one
     - Below the answers, there will be an alert message notifying the user if answer is correct or wrong. If the answer is wrong, there will be a correct answer shown. 
 
-Step 3: Game is over when all questions have been answered or if the timer reaches zero. 
+**Step 3**: Game is over when all questions have been answered or if the timer reaches zero. 
 
-Step 4: When the quiz ends, the user is prompted to enter name and the score will be saved to local storage after clicking the <Submit> button. 
+**Step 4**: When the quiz ends, the user is prompted to enter name and the score will be saved to local storage after clicking the <Submit> button. 
     - Sringify array in order to store in local
     - Create a show current highscores function
     - Check if there is any in local storage
     - FOR loop created to iterate the stored high scores and <append()> method for each round of new high score.  
 
-Step 5: User can click "Reset High Scores" to clear the saved scores and click on "Go Back" to start quiz again. 
+**Step 5**: User can click "Reset High Scores" to clear the saved scores and click on <em>"Go Back"</em> to start quiz again. 
 
 
 
