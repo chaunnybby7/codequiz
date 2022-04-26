@@ -69,7 +69,7 @@ __Step 1__: Click on `<start quiz>`
 ## Deployed Link
 
 * https://chaunnybby7.github.io/codequiz/
-
+* https://github.com/chaunnybby7/codequiz
 
 ## Authors
 
