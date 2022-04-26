@@ -292,3 +292,5 @@ resetHighScoreBtn.addEventListener("click", function(){
     listHighScores.innerHTML = "High Scores Cleared!";
     listHighScores.setAttribute("style", "font-family: 'Inter', sans-serif; font-style: italic;")
 });
+
+
