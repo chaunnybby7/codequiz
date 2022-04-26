@@ -62,10 +62,6 @@ __Step 1__: Click on `<start quiz>`
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 <BR>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<BR>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chaunnybby7&theme=blue-green)
 
 
 
