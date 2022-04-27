@@ -81,7 +81,6 @@ __Step 1__: Click on `<start quiz>`
 
 * **YiLin Ong** 
 
-- [Link to Portfolio Site](https://github.com/chaunnybby7/codequiz)
 - [Link to Github](https://github.com/chaunnybby7)
 - [Link to LinkedIn](https://www.linkedin.com/in/chauntelleong)
 
