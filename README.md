@@ -64,3 +64,5 @@ __Step 1__: Click on `<start quiz>`
 
 
 ## Contact 
+Please email me if you have any questions:
+* <a href="mailto:yong@nyit.edu">yong@nyit.edu </a>
