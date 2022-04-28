@@ -15,7 +15,7 @@ __Step 1__: Click on `<start quiz>`
 - [x] If the user answered the question correctly, the score will be incremented by one
 - [x] Below the answers, there will be an alert message notifying the user if answer is correct or wrong. If the answer is wrong, there will be a correct answer shown. 
 
-- [x] **Step 3**: Game is over when all questions have been answered or if the timer reaches zero. 
+- **Step 3**: Game is over when all questions have been answered or if the timer reaches zero. 
 
 **Step 4**: When the quiz ends, the user is prompted to enter name and the score will be saved to local storage after clicking the <Submit> button. 
 - [x]  Sringify array in order to store in local
