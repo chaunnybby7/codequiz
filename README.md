@@ -2,20 +2,6 @@
 
 I built a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. 
 
-## Acceptance Criteria
-
-GIVEN I am taking a code quiz<Br>
-WHEN I click the start button<Br>
-__THEN a timer starts and I am presented with a question__<br>
-WHEN I answer a question<Br>
-__THEN I am presented with another question__<Br>
-WHEN I answer a question incorrectly<BR>
-__THEN time is subtracted from the clock__<BR>
-WHEN all questions are answered or the timer reaches 0<BR>
-__THEN the game is over__<BR>
-WHEN the game is over<BR>
-__THEN I can save my initials and my score__<BR>
-
 
 ## User Story
 
