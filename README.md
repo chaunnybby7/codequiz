@@ -1,4 +1,4 @@
-# codequiz
+# Fun Quiz Generator
 
 I built a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. 
 
@@ -67,7 +67,6 @@ __Step 1__: Click on `<start quiz>`
 
 * **YiLin Ong** 
 
-- [Link to Portfolio Site](https://github.com/chaunnybby7/codequiz)
 - [Link to Github](https://github.com/chaunnybby7)
 - [Link to LinkedIn](https://www.linkedin.com/in/chauntelleong)
 
