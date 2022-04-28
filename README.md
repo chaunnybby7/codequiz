@@ -5,7 +5,7 @@
 I built a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. 
 
 
-## What you will find on my website:
+## Instructions 
 
 __Step 1__: Click on `<start quiz>`
 - [x] Timer is on the top right of the landing page
